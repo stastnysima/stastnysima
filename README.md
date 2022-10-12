@@ -1,6 +1,13 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
 <h3 align="center">A motivated developer from Czech Republic</h3>
 
+- ✨ Starting developer
+
+- 🎬 VFX & GFX editor
+
+- 💹 Stocks enjoyer
+
+
 
 
 <h3 align="left">Contact me on -</h3>
