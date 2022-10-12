@@ -1,13 +1,17 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
 <h3 align="center">A motivated developer from Czech Republic</h3>
 
+
+
 - ✨ Starting developer
 
 - 🎬 VFX & GFX editor
 
 - 💹 Stocks enjoyer
 
+![smurf](https://user-images.githubusercontent.com/115611766/195274795-f53a02aa-5e47-491a-8d82-4e5350e6847c.jpg)
 
+- 😍 A picture of how I look like IRL
 
 
 <h3 align="left">Contact me on -</h3>
