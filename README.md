@@ -10,9 +10,6 @@
 
 - 💹 Moonboy and Stocks enjoyer
 
-<h3 align="left">A picture of something I love -</h3>
-[https://user-images.githubusercontent.com/115611766/195622759-1d47a202-8af6-4591-abc5-52700e636b24.jpg]
-
 <h3 align="left">Contact me on -</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCXmhGdToGn8hPTMnqx98yOA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxmhgdtogn8hptmnqx98yoa" height="30" width="40" /></a>
