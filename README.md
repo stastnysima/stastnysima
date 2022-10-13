@@ -11,7 +11,7 @@
 - 💹 Moonboy and Stocks enjoyer
 
 <h3 align="left">A picture of something I love -</h3>
-![maxresdefault](https://user-images.githubusercontent.com/115611766/195622759-1d47a202-8af6-4591-abc5-52700e636b24.jpg)
+(https://user-images.githubusercontent.com/115611766/195622759-1d47a202-8af6-4591-abc5-52700e636b24.jpg)
 
 <h3 align="left">Contact me on -</h3>
 <p align="left">
