@@ -9,6 +9,8 @@
 
 - 🎶 Hardtekk
 
+- 🔥 Burnout Syndrome
+
 
 <h3 align="left">Contact me on -</h3>
 <p align="left">
