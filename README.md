@@ -7,7 +7,7 @@
 
 - 💹 Moonboy and Stocks enjoyer
 
-- 💵 Money >>> Anything
+- 🎶 Hardtekk
 
 <h3 align="left">Contact me on -</h3>
 <p align="left">
