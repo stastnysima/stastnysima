@@ -7,9 +7,9 @@
 
 - 💹 Moonboy and Stocks enjoyer
 
-- 🎶 Hardtekk
+- 🎶 Hardtekk enjoyer
 
-- 🔥 Burnout Syndrome
+- 🔥 Burnout Syndrome enjoyer
 
 
 <h3 align="left">Contact me on -</h3>
