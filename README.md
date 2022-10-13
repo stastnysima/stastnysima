@@ -1,17 +1,17 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
 <h3 align="center">A motivated developer from Czech Republic</h3>
 
+![60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja](https://user-images.githubusercontent.com/115611766/195622218-496f063a-7ec9-44cf-bc3f-49da9a8d0644.gif)
 
 
 - ✨ Starting developer
 
 - 🎬 VFX & GFX editor
 
-- 💹 Stocks enjoyer
+- 💹 Moonboy and Stocks enjoyer
 
-<h3 align="left">A picture of how I look like IRL -</h3>
-
-![smurf](https://user-images.githubusercontent.com/115611766/195274795-f53a02aa-5e47-491a-8d82-4e5350e6847c.jpg)
+<h3 align="left">A picture of something I love -</h3>
+![maxresdefault](https://user-images.githubusercontent.com/115611766/195622759-1d47a202-8af6-4591-abc5-52700e636b24.jpg)
 
 <h3 align="left">Contact me on -</h3>
 <p align="left">
