@@ -11,6 +11,8 @@
 
 - 🔥 Burnout Syndrome enjoyer
 
+- 💸 Infinite SE money glitch enjoyer
+
 
 <h3 align="left">Contact me on -</h3>
 <p align="left">
