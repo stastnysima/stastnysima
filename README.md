@@ -9,9 +9,10 @@
 
 - 🎶 Hardtekk enjoyer
 
+- 💸 Infinite money glitch enjoyer
+
 - 🔥 Burnout Syndrome enjoyer
 
-- 💸 Infinite money glitch enjoyer
 
 
 <h3 align="left">Contact me on -</h3>
