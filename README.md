@@ -5,11 +5,9 @@
 
 - 🎬 VFX & GFX editor
 
-- 💹 Moonboy and Stocks enjoyer
+- 💸 Infinite money glitch enjoyer
 
 - 🎶 Hardtekk enjoyer
-
-- 💸 Infinite money glitch enjoyer
 
 - 🔥 Burnout Syndrome enjoyer
 
