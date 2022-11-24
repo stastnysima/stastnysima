@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
-<h3 align="center">A motivated fellow from Czech Republic</h3>
+<h3 align="center">A cybercriminal from Czech Republic</h3>
 
 - ✨ Starting developer
 
