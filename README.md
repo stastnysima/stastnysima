@@ -1,15 +1,7 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
 <h3 align="center">A cybercriminal from Czech Republic</h3>
 
-- ✨ Starting developer
-
-- 🎬 VFX & GFX editor
-
-- 💸 Infinite money glitch enjoyer
-
-- 🎶 Hardtekk enjoyer
-
-- 🔥 Burnout Syndrome enjoyer
+- life so easy 🥶
 
 
 
