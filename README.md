@@ -1,7 +1,7 @@
 <h1 align="center">Heya 👋🏻, I'm Sima</h1>
 <h3 align="center">A cybercriminal from Czech Republic</h3>
 
-- life so easy 🥶
+- life's so easy 🥶
 
 
 
